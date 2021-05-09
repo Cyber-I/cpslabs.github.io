@@ -38,7 +38,7 @@ baseurl: "/cyberlog" # the subpath of your site, e.g. "/blog".网站子路径，
 
 # Github and twitter are optional:可以在网页底部显示自己的推特和github链接
 minima:
-  social_links: http://chenlab.net/
+  social_links:
     twitter: hchen420
     github: chen420
 
